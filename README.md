@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**leonardodorneles/leonardodorneles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+Engenheiro de Software pela UNIPAMPA com 2 anos de experiência no desenvolvimento de aplicações web robustas e escaláveis. Especialista em C#, TypeScript, Angular e Next.js, com forte domínio no desenvolvimento de APIs RESTful e modelagem de dados. Profissional proativo e focado em performance, com facilidade para atuar em equipes ágeis na resolução de desafios complexos.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Linguagens: TypeScript, JavaScript, C#.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Frameworks: Next, React, Angular, React Native
+</p>
+
+<p align="left">
+  Minhas redes profissionais: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leonardodorneles001@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodorneles/" alt="LinkedIn"/></a>
+</p>
